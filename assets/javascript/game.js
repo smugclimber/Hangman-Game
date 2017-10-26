@@ -2,7 +2,7 @@
   var computerChoices = ["r", "p", "s"];
   var victor;
   var img;
-    alert("User may choose 'P' for Paper, 'R' for Rock, or 'S' for Scissors");
+  alert("User may choose 'P' for Paper, 'R' for Rock, or 'S' for Scissors");
       // Creates an array that lists out all of the options (Rock, Paper, or Scissors).
   alert('Please choose "r", "p", or "s"');
   // This function is run whenever the user presses a key.
